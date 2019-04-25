@@ -1,6 +1,6 @@
 programa
 {
-	
+	//tem foto no cell
 	funcao inicio()
 	{
 		cadeia nome
@@ -24,6 +24,7 @@ programa
 		}
 	}
 }
+ 
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
